@@ -10,8 +10,10 @@ The project analyzes audio signals using:
 
 **Saad Alriyan 202181050**
 - Time-domain analysis
+
 **Talal Alghamdi 202178870**
 - Frequency-domain analysis using the Discrete Fourier Transform (DFT)
+
 **Abdulrahman Alburaikan 202175630**
 - Time-frequency analysis using the Short-Time Fourier Transform (STFT)
 
